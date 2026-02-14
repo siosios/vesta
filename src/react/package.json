@@ -19,7 +19,7 @@
     "perfect-scrollbar": "^1.5.3",
     "popper.js": "^1.15.0",
     "prop-types": "^15.7.2",
-    "qs": "^6.9.4",
+    "qs": "^6.14.2",
     "react": "^16.10.2",
     "react-codemirror": "^1.0.0",
     "react-dom": "^16.10.2",
